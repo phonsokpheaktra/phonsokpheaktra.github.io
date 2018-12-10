@@ -1,0 +1,36 @@
+.bgstyle
+{
+	/*background-color: #666; */
+	background-image: url("cartoon.jpg");
+	background-position: right top;
+	border: solid 10px red;
+		border-radius: 40px;
+
+}
+p
+{
+	font-size:"100px";
+}
+.borderstyle
+{
+	/*background: #ddd; */
+	/*border-left: solid 40px red;
+	border-left-style: solid;
+	border-right-style: dashed;
+	border-top-style: dotted;
+	border-bottom-style: groove;
+
+	border-left-color:red;
+	border-right-color:green;
+	border-top-color:blue;
+	border-bottom-color:gray;
+
+	border-left-width:5px; */
+
+	border: solid;
+	border-color: lightblue;
+	background-color: yellow
+}
+	body
+
+}
